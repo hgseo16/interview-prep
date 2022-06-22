@@ -1,2 +1,2 @@
 # interview-prep
-Repository for preparing for technical interviews
+This is a repository for preparing for technical interviews.
