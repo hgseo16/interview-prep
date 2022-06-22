@@ -1,6 +1,11 @@
 array = [3, 5, -4, 8, 11, 1, -1, 6]
 targetSum = 10
 
+# Approach: 1
+# Using two for loops
+# Time O(n^2)
+# Space O(1)
+
 def twoNumberSum(array, targetSum):
     # Write your code here.
     result = []
@@ -18,5 +23,3 @@ def twoNumberSum(array, targetSum):
 
 print(twoNumberSum(array, targetSum))
 
-# Space O(n)
-# Time O(n)
