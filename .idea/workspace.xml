@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/interview-prep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interview-prep.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twoNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/twoNumberSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="twoNumberSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +71,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\twoNumberSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.twoNumberSum" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655874061425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="twoNumberSum">
+      <created>1655907476861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655907476861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,36 +124,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="twoNumberSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="twoNumberSum" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2289" y="298" key="#test" timestamp="1655873578403">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2289" y="298" key="#test/0.0.3440.1400@0.0.3440.1400" timestamp="1655873578403" />
-    <state width="1696" height="407" key="GridCell.Tab.0.bottom" timestamp="1655873901456">
+    <state width="1696" height="407" key="GridCell.Tab.0.bottom" timestamp="1655907492089">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="407" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1655873901456" />
-    <state width="1696" height="407" key="GridCell.Tab.0.center" timestamp="1655873901456">
+    <state width="1696" height="407" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1655907492089" />
+    <state width="1696" height="407" key="GridCell.Tab.0.center" timestamp="1655907492089">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="407" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1655873901456" />
-    <state width="1696" height="407" key="GridCell.Tab.0.left" timestamp="1655873901456">
+    <state width="1696" height="407" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1655907492089" />
+    <state width="1696" height="407" key="GridCell.Tab.0.left" timestamp="1655907492089">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="407" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1655873901456" />
-    <state width="1696" height="407" key="GridCell.Tab.0.right" timestamp="1655873901456">
+    <state width="1696" height="407" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1655907492089" />
+    <state width="1696" height="407" key="GridCell.Tab.0.right" timestamp="1655907492089">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="407" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1655873901456" />
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1655874066781">
+    <state width="1696" height="407" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1655907492089" />
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1655907478604">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1655874066781" />
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1655907478604" />
     <state x="2389" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655874238040">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
