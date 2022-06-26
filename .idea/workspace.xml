@@ -21,7 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sortSquarredArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortSquarredArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortSquaredArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/array/sortSquaredArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twoNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/array/twoNumberSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validateSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/array/validateSubsequence.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +49,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.sortSquarredArray">
-    <configuration name="sortSquarredArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\서형규\PycharmProjects\interview-prep\easy\array" />
+      <recent name="C:\Users\서형규\PycharmProjects\interview-prep\easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sortSquaredArray">
+    <configuration name="sortSquaredArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortSquarredArray.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\sortSquaredArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +99,7 @@
           <ENTRY IS_ENABLED="true" PARSER="runconfig" />
         </ENTRIES>
       </EXTENSION>
-      <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\twoNumberSum.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\twoNumberSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/validateSubsequence.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\validateSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +131,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sortSquarredArray" />
+        <item itemvalue="Python.sortSquaredArray" />
         <item itemvalue="Python.validateSubsequence" />
         <item itemvalue="Python.twoNumberSum" />
       </list>
@@ -189,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656168532889</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="sortedSquaredArray">
+      <created>1656251458561</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1656251458561</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,33 +225,34 @@
     <MESSAGE value="twoNumberSum 2 more approaches updated" />
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="sortedSquaredArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="sortedSquaredArray" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2289" y="298" key="#test" timestamp="1655873578403">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2289" y="298" key="#test/0.0.3440.1400@0.0.3440.1400" timestamp="1655873578403" />
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom" timestamp="1655982468959">
+    <state width="1696" height="404" key="GridCell.Tab.0.bottom" timestamp="1656251249157">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1655982468959" />
-    <state width="1696" height="404" key="GridCell.Tab.0.center" timestamp="1655982468958">
+    <state width="1696" height="404" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1656251249157" />
+    <state width="1696" height="404" key="GridCell.Tab.0.center" timestamp="1656251249157">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1655982468958" />
-    <state width="1696" height="404" key="GridCell.Tab.0.left" timestamp="1655982468958">
+    <state width="1696" height="404" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1656251249157" />
+    <state width="1696" height="404" key="GridCell.Tab.0.left" timestamp="1656251249156">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1655982468958" />
-    <state width="1696" height="404" key="GridCell.Tab.0.right" timestamp="1655982468958">
+    <state width="1696" height="404" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1656251249156" />
+    <state width="1696" height="404" key="GridCell.Tab.0.right" timestamp="1656251249157">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1655982468958" />
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656168534984">
+    <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1656251249157" />
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656251459834">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1656168534984" />
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1656251459834" />
     <state x="2389" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655874238040">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
