@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="" />
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sortSquarredArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/sortSquarredArray.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.validateSubsequence">
+  <component name="RunManager" selected="Python.sortSquarredArray">
+    <configuration name="sortSquarredArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-prep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortSquarredArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="twoNumberSum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sortSquarredArray" />
         <item itemvalue="Python.validateSubsequence" />
         <item itemvalue="Python.twoNumberSum" />
       </list>
@@ -157,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656099694630</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update">
+      <created>1656168532889</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656168532889</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +209,8 @@
     <MESSAGE value="twoNumberSum" />
     <MESSAGE value="twoNumberSum 2 more approaches updated" />
     <MESSAGE value="Test Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2289" y="298" key="#test" timestamp="1655873578403">
@@ -200,10 +233,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1655982468958" />
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656099701597">
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656168534984">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1656099701597" />
+    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1656168534984" />
     <state x="2389" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655874238040">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
