@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tournamentWinner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656423621902</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tournamentWinner.py">
+      <created>1656489956796</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1656489956796</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,29 +268,30 @@
     <MESSAGE value="sortedSquaredArray" />
     <MESSAGE value="easy/array/ directory refactored" />
     <MESSAGE value="sortSquaredArray.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="sortSquaredArray.py" />
+    <MESSAGE value="tournamentWinner.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="tournamentWinner.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2289" y="298" key="#test" timestamp="1655873578403">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2289" y="298" key="#test/0.0.3440.1400@0.0.3440.1400" timestamp="1655873578403" />
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom" timestamp="1656489387904">
+    <state width="1696" height="404" key="GridCell.Tab.0.bottom" timestamp="1656489942935">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1656489387904" />
-    <state width="1696" height="404" key="GridCell.Tab.0.center" timestamp="1656489387904">
+    <state width="1696" height="404" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1656489942935" />
+    <state width="1696" height="404" key="GridCell.Tab.0.center" timestamp="1656489942935">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1656489387904" />
-    <state width="1696" height="404" key="GridCell.Tab.0.left" timestamp="1656489387904">
+    <state width="1696" height="404" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1656489942935" />
+    <state width="1696" height="404" key="GridCell.Tab.0.left" timestamp="1656489942935">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1656489387904" />
-    <state width="1696" height="404" key="GridCell.Tab.0.right" timestamp="1656489387904">
+    <state width="1696" height="404" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1656489942935" />
+    <state width="1696" height="404" key="GridCell.Tab.0.right" timestamp="1656489942935">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1656489387904" />
+    <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1656489942935" />
     <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656423623905">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
