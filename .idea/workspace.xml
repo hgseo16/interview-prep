@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,9 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/array/nonConstructibleChange.py" afterDir="false" />
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="threeNumberSums.py">
+      <change afterPath="$PROJECT_DIR$/array/easy/nonConstructibleChange.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/moveElementToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/moveElementToEnd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/nonConstructibleChange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/smallestDifference.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/smallestDifference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/sortSquaredArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/sortSquaredArray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/threeNumberSums.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/medium/threeNumberSums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/twoNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/twoNumberSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/array/validateSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/validateSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonConstructibleChange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tournamentWinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/tournamentWinner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +50,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2AuwrudCZrUI5UGTuOzkgg0FEfy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array/easy" />
+      <recent name="$PROJECT_DIR$/array/medium" />
+      <recent name="$PROJECT_DIR$/array" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\서형규\PycharmProjects\interview-prep\easy\array" />
-      <recent name="C:\Users\서형규\PycharmProjects\interview-prep\easy" />
     </key>
   </component>
   <component name="RunManager" selected="Python.tournamentWinner">
@@ -66,6 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\sortSquaredArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -87,7 +113,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tournamentWinner.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array/easy/tournamentWinner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,6 +135,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <EXTENSION ID="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -139,6 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\validateSubsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -157,6 +186,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,6 +197,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655872979408</updated>
+      <workItem from="1662642067195" duration="2068000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655874061425</created>
@@ -259,8 +290,18 @@
       <option name="project" value="LOCAL" />
       <updated>1656858498946</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="threeNumberSums.py">
+      <created>1662642089926</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662642089926</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -272,7 +313,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
@@ -286,36 +326,7 @@
     <MESSAGE value="tournamentWinner.py" />
     <MESSAGE value="test" />
     <MESSAGE value="nonConstructibleChange" />
-    <option name="LAST_COMMIT_MESSAGE" value="nonConstructibleChange" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2289" y="298" key="#test" timestamp="1655873578403">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2289" y="298" key="#test/0.0.3440.1400@0.0.3440.1400" timestamp="1655873578403" />
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom" timestamp="1656527203176">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1656527203176" />
-    <state width="1696" height="404" key="GridCell.Tab.0.center" timestamp="1656527203176">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1656527203176" />
-    <state width="1696" height="404" key="GridCell.Tab.0.left" timestamp="1656527203176">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1656527203176" />
-    <state width="1696" height="404" key="GridCell.Tab.0.right" timestamp="1656527203176">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="1696" height="404" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1656527203176" />
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2" timestamp="1656858500191">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2172" y="423" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1656858500191" />
-    <state x="2389" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655874238040">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="2389" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3440.1400@0.0.3440.1400" timestamp="1655874238040" />
+    <MESSAGE value="threeNumberSums.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="threeNumberSums.py" />
   </component>
 </project>
