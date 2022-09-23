@@ -22,18 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="threeNumberSums.py">
-      <change afterPath="$PROJECT_DIR$/array/easy/nonConstructibleChange.py" afterDir="false" />
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="findClosestValueInBst.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/moveElementToEnd.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/moveElementToEnd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/nonConstructibleChange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/smallestDifference.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/smallestDifference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/sortSquaredArray.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/sortSquaredArray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/threeNumberSums.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/medium/threeNumberSums.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/twoNumberSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/twoNumberSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/array/validateSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/validateSubsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nonConstructibleChange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tournamentWinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/easy/tournamentWinner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/array/easy" />
@@ -197,7 +187,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655872979408</updated>
-      <workItem from="1662642067195" duration="2068000" />
+      <workItem from="1662642067195" duration="3303000" />
+      <workItem from="1663002393315" duration="1806000" />
+      <workItem from="1663106559399" duration="1564000" />
+      <workItem from="1663518738444" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655874061425</created>
@@ -297,7 +290,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662642089926</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="re-organize">
+      <created>1662695860687</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662695860687</updated>
+    </task>
+    <task id="LOCAL-00016" summary="findClosestValueInBst.py">
+      <created>1663009033400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663009033400</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +334,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="nonConstructibleChange" />
     <MESSAGE value="threeNumberSums.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="threeNumberSums.py" />
+    <MESSAGE value="re-organize" />
+    <MESSAGE value="findClosestValueInBst.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="findClosestValueInBst.py" />
   </component>
 </project>
