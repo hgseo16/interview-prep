@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="findClosestValueInBst.py">
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="moved branchSum.py">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/interview-prep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interview-prep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,14 +64,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/binary_tree/easy" />
       <recent name="$PROJECT_DIR$/array/easy" />
       <recent name="$PROJECT_DIR$/array/medium" />
       <recent name="$PROJECT_DIR$/array" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="C:\Users\서형규\PycharmProjects\interview-prep\easy\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tournamentWinner">
+  <component name="RunManager" selected="Python.test">
     <configuration name="sortSquaredArray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="interview-prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +86,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\서형규\PycharmProjects\interview-prep\easy\array\sortSquaredArray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="interview-prep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,6 +194,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.tournamentWinner" />
         <item itemvalue="Python.sortSquaredArray" />
         <item itemvalue="Python.validateSubsequence" />
@@ -191,6 +217,8 @@
       <workItem from="1663002393315" duration="1806000" />
       <workItem from="1663106559399" duration="1564000" />
       <workItem from="1663518738444" duration="1000" />
+      <workItem from="1663976485798" duration="260000" />
+      <workItem from="1664070541366" duration="5146000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655874061425</created>
@@ -304,7 +332,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663009033400</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="findClosestValueInBst.py">
+      <created>1663976532415</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663976532415</updated>
+    </task>
+    <task id="LOCAL-00018" summary="branchSum.py">
+      <created>1663976546427</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663976546427</updated>
+    </task>
+    <task id="LOCAL-00019" summary="moved branchSum.py">
+      <created>1664070588214</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1664070588214</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +385,11 @@
     <MESSAGE value="threeNumberSums.py" />
     <MESSAGE value="re-organize" />
     <MESSAGE value="findClosestValueInBst.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="findClosestValueInBst.py" />
+    <MESSAGE value="branchSum.py" />
+    <MESSAGE value="moved branchSum.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved branchSum.py" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/interview_prep$test.coverage" NAME="test Coverage Results" MODIFIED="1664150920015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
