@@ -1,4 +1,3 @@
-# This is the class of the input root. Do not edit it.
 class BinaryTree:
     def __init__(self, value):
         self.value = value
@@ -9,10 +8,8 @@ class BinaryTree:
 def branchSums(root):
     if root is None:
         return []
-
-    branches = branchSums(root.left) + branchSums(root.right)
-
-    if branches:
-        return [branch + root.value for branch in branches]
-    else:
+    elif root.left is None and root.right is None:
         return [root.value]
+    else:
+        branchSumList = branchSums(root.left) + branchSums(root.right)
+        return [root.value + branchSum for branchSum in branchSumList]

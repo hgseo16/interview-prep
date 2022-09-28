@@ -22,11 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="moved branchSum.py">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/interview-prep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/interview-prep.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="test commit">
+      <change afterPath="$PROJECT_DIR$/bst/easy/nodeDepths.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_tree/easy/branchSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_tree/easy/branchSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +218,9 @@
       <workItem from="1663106559399" duration="1564000" />
       <workItem from="1663518738444" duration="1000" />
       <workItem from="1663976485798" duration="260000" />
-      <workItem from="1664070541366" duration="5146000" />
+      <workItem from="1664070541366" duration="5163000" />
+      <workItem from="1664163430516" duration="1613000" />
+      <workItem from="1664396194033" duration="340000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655874061425</created>
@@ -353,7 +355,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664070588214</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="test commit">
+      <created>1664152505124</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664152505124</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,9 +396,10 @@
     <MESSAGE value="findClosestValueInBst.py" />
     <MESSAGE value="branchSum.py" />
     <MESSAGE value="moved branchSum.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved branchSum.py" />
+    <MESSAGE value="test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/interview_prep$test.coverage" NAME="test Coverage Results" MODIFIED="1664150920015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/interview_prep$test.coverage" NAME="test Coverage Results" MODIFIED="1664163454074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
