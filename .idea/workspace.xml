@@ -22,10 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/bst/easy/nodeDepths.py" afterDir="false" />
+    <list default="true" id="0cfb3d42-dfed-4152-ab53-d5d18522e2a3" name="Default Changelist" comment="countVowelStrings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_tree/easy/branchSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_tree/easy/branchSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/array/easy/tournamentWinner.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/binary_tree/easy/branchSum.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bst/easy/findClosestValueInBst.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bst/easy/nodeDepths.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/graphs/easy/depthFirstSearchGraph.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/greedy_algorithms/minimumWaitingTime.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -220,7 +227,14 @@
       <workItem from="1663976485798" duration="260000" />
       <workItem from="1664070541366" duration="5163000" />
       <workItem from="1664163430516" duration="1613000" />
-      <workItem from="1664396194033" duration="340000" />
+      <workItem from="1664396194033" duration="1074000" />
+      <workItem from="1664677773924" duration="1376000" />
+      <workItem from="1664884471776" duration="1449000" />
+      <workItem from="1664944379665" duration="3000" />
+      <workItem from="1665237467919" duration="174000" />
+      <workItem from="1665385903440" duration="6540000" />
+      <workItem from="1665585154256" duration="32000" />
+      <workItem from="1665585193804" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655874061425</created>
@@ -362,7 +376,42 @@
       <option name="project" value="LOCAL" />
       <updated>1664152505124</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="question update">
+      <created>1664406543853</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1664406543853</updated>
+    </task>
+    <task id="LOCAL-00022" summary="dfs graph template">
+      <created>1664677847311</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1664677847311</updated>
+    </task>
+    <task id="LOCAL-00023" summary="minimumWaitingTime initialize">
+      <created>1664884644237</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664884644237</updated>
+    </task>
+    <task id="LOCAL-00024" summary="121. Best Time to Buy and Sell Stock">
+      <created>1665237548948</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665237548948</updated>
+    </task>
+    <task id="LOCAL-00025" summary="countVowelStrings">
+      <created>1665413765630</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665413765630</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,9 +446,25 @@
     <MESSAGE value="branchSum.py" />
     <MESSAGE value="moved branchSum.py" />
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="question update" />
+    <MESSAGE value="dfs graph template" />
+    <MESSAGE value="minimumWaitingTime initialize" />
+    <MESSAGE value="121. Best Time to Buy and Sell Stock" />
+    <MESSAGE value="countVowelStrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="countVowelStrings" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/interview_prep$test.coverage" NAME="test Coverage Results" MODIFIED="1664163454074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/interview_prep$test.coverage" NAME="test Coverage Results" MODIFIED="1665445402364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
